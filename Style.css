@@ -1,0 +1,73 @@
+body {
+  margin: 0px;
+  background-color: #f73b0c;
+}
+h1 {
+  font-size: 4rem;
+  margin: 2%;
+  text-align: center;
+  color: white;
+}
+
+.img {
+  width: 10rem;
+  height: 10rem;
+  margin: 10%;
+  margin-top: 18%;
+  border-radius: 25%;
+  transition: ease-in-out 0.5s;
+}
+.img:hover {
+  transform: scale(1.2);
+}
+.palylsit {
+  padding: 3% 1%;
+}
+.play-song {
+  margin-top: 5%;
+  font-size: 1.5rem;
+  color: white;
+  transition: ease-in-out 0.5s;
+}
+.play-song:hover {
+  transform: scale(1.1);
+  color: #0c0104;
+  cursor: pointer;
+}
+.play-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 25%;
+}
+.play-buttons {
+  margin-top: 5%;
+  text-align: center;
+}
+.fas {
+  font-weight: 900;
+  font-size: 3.5em;
+  margin: 5%;
+  color: rgb(132, 194, 33);
+  transition: ease-in-out 0.5s;
+}
+.fas:hover {
+  transform: scale(1.1);
+  color: #ffffff;
+  cursor: pointer;
+}
+.con12 {
+  margin-top: 5%;
+  color: #c2dd2b;
+  font-size: 1.5rem;
+}
+.con12 p {
+  transition: ease-in-out 0.5s;
+}
+.con12 p:hover {
+  transform: scale(1.05);
+  color: #ffffff;
+  cursor: pointer;
+}
+.con2 {
+  margin-top: 2%;
+}
